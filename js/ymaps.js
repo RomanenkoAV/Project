@@ -12,4 +12,5 @@ function init() {
     iconImageOffset: [-3, -42]
   });
   myMap.geoObjects.add(myPlacemark);
+  myMap.behaviors.disable('scrollZoom')
 }

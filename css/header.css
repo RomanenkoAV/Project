@@ -568,7 +568,7 @@
     height: 100%;
     background-color: var(--black-color);
     transform: translateX(-100%);
-    transition: transform var(--transition-05);
+    /*transition: transform var(--transition-05);*/
   }
 
   .header__nav-active {
